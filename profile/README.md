@@ -40,6 +40,7 @@
 - smol
 - reqwest
 
+#### Other stuff
 - Contributions to all public repos are welcome ✨
 - 99% of the code is made by me alone, with help from some awesome people 💚
 - I haven't come up with anything else to put here
